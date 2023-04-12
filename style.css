@@ -1,0 +1,36 @@
+body {
+    padding: 0;
+    background-color: #9ffffd;
+    font-family: "Montserrat Medium", serif;
+    max-width: 1170px;
+    margin: 0 auto
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 24px;
+    text-align: center;
+    margin: auto auto;
+}
+
+.question {
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 0;
+    margin: 20px auto;
+    justify-content: center;
+    padding: 15px 0px;
+}
+button {
+    margin: 0 auto;
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid grey;
+    border-radius: 6px;
+    display: block;
+    padding: 0 30px;
+}
